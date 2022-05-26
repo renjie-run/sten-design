@@ -1,6 +1,6 @@
 {
   "name": "@sten-design/components",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sten-design/icons": "^1.0.2",
-    "@sten-design/themes": "^1.0.2"
+    "@sten-design/icons": "^1.0.3",
+    "@sten-design/themes": "^1.0.3"
   },
   "gitHead": "d2136385a213830b37cb99b7cc305a407c4aa902"
 }
