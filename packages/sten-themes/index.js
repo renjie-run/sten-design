@@ -1,5 +1,5 @@
 'use strict'
 
 module.exports = {
-  themes: 'index',
+  themes: 'index...',
 };
